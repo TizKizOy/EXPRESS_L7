@@ -1,0 +1,92 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "Иван Иванов",
+      "age": 30,
+      "isVIP": false,
+      "registrationDate": "15/05/2023",
+      "preferredProducts": [
+        "Вино",
+        "Виски"
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Анна Смирнова",
+      "age": 25,
+      "isVIP": true,
+      "registrationDate": "20/06/2023",
+      "preferredProducts": [
+        "Пиво",
+        "Водка"
+      ]
+    },
+    {
+      "customerId": "C003",
+      "name": "Дмитрий Кузнецов",
+      "age": 40,
+      "isVIP": false,
+      "registrationDate": "10/07/2023",
+      "preferredProducts": [
+        "Виски",
+        "Ром"
+      ]
+    },
+    {
+      "customerId": "C004",
+      "name": "Екатерина Петрова",
+      "age": 35,
+      "isVIP": true,
+      "registrationDate": "05/08/2023",
+      "preferredProducts": [
+        "Вино",
+        "Джин"
+      ]
+    },
+    {
+      "customerId": "a6e0d48d-ca26-4d5a-8391-5c561f951052",
+      "name": "Иван Иванов",
+      "age": 30,
+      "isVIP": false,
+      "registrationDate": "15/05/2023",
+      "preferredProducts": [
+        "Вино",
+        "Виски"
+      ]
+    },
+    {
+      "customerId": "83be5dca-d4f2-4a16-85a1-46e30d0c5cd5",
+      "name": "Анна Смирнова",
+      "age": 25,
+      "isVIP": true,
+      "registrationDate": "20/06/2023",
+      "preferredProducts": [
+        "Пиво",
+        "Водка"
+      ]
+    },
+    {
+      "customerId": "02cd04c3-4856-4a2f-8d69-ec843f2834e4",
+      "name": "Дмитрий Кузнецов",
+      "age": 40,
+      "isVIP": false,
+      "registrationDate": "10/07/2023",
+      "preferredProducts": [
+        "Виски",
+        "Ром"
+      ]
+    },
+    {
+      "customerId": "7e360e6d-a21a-4fab-88a3-c1ef490d9583",
+      "name": "Екатерина Петрова",
+      "age": 44,
+      "isVIP": false,
+      "registrationDate": "05/08/2023",
+      "preferredProducts": [
+        "Вино",
+        "Джин"
+      ]
+    }
+  ]
+}

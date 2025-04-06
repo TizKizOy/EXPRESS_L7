@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "A001",
+      "name": "Вино Chardonnay",
+      "price": 15.99,
+      "inStock": true,
+      "expirationDate": "31/12/2025",
+      "categories": [
+        "Вино",
+        "Белое"
+      ]
+    },
+    {
+      "id": "A002",
+      "name": "Виски Jack Daniel'ssssss",
+      "price": 25.5,
+      "inStock": false,
+      "expirationDate": "12/30/2022",
+      "categories": [
+        "Виски",
+        "Крепкий алкоголь"
+      ]
+    },
+    {
+      "id": "A003",
+      "name": "Пиво Heineken",
+      "price": 2.99,
+      "inStock": true,
+      "expirationDate": "2024-09-15",
+      "categories": [
+        "Пиво",
+        "Светлое"
+      ]
+    },
+    {
+      "id": "A004",
+      "name": "Очень Новое Пойло",
+      "price": 28.5,
+      "inStock": true,
+      "expirationDate": "11/05/2026",
+      "categories": [
+        "Очень",
+        "Новое",
+        "Пойло"
+      ]
+    },
+    {
+      "id": "f5232863-88c3-4b5c-a78f-2c963f990731",
+      "name": "Вино Chardonnay",
+      "price": 15.99,
+      "inStock": true,
+      "expirationDate": "31/12/2025",
+      "categories": [
+        "Вино",
+        "Белое"
+      ]
+    },
+    {
+      "id": "27d8cd2a-ea98-4674-96bb-49fe313b1f0e",
+      "name": "Виски Jack Daniel'ssssss",
+      "price": 25.5,
+      "inStock": false,
+      "expirationDate": "12/30/2022",
+      "categories": [
+        "Виски",
+        "Крепкий алкоголь"
+      ]
+    },
+    {
+      "id": "1a7ebf6c-c3db-46f5-876a-49bc20261044",
+      "name": "Пиво Heineken",
+      "price": 2.99,
+      "inStock": true,
+      "expirationDate": "2024-09-15",
+      "categories": [
+        "Пиво",
+        "Светлое"
+      ]
+    },
+    {
+      "id": "9b0aa425-f5a0-4ef5-a5e5-7fc8e0c5439e",
+      "name": "Очень Новое Пойло",
+      "price": 28.5,
+      "inStock": true,
+      "expirationDate": "11/05/2026",
+      "categories": [
+        "Очень",
+        "Новое",
+        "Пойло"
+      ]
+    }
+  ]
+}
